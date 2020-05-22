@@ -1,2 +1,5 @@
 flask==1.1.1
+<<<<<<< HEAD
 gunicorn
+=======
+>>>>>>> ac933a5976f3eeb27d92e18f529bba05b77e5b2c
