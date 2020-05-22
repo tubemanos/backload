@@ -1,7 +1,0 @@
-build:
- docker:
-   web: Dockerfile.Heroku
- config:
-   APP_NAME: $APP_NAME
-   LOGGING_CONSOLE: $LOGGING_CONSOLE
-   LOGGING_LEVEL: $LOGGING_LEVEL
